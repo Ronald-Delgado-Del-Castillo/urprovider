@@ -7,6 +7,6 @@
       "address": { "loremWords": { "minLength": 5, "maxLength": 20 } },
       "phone": { "regexp": "([^0-9])(?:11(1\\d)1(\\d{4}))([^0-9])" },
       "password": { "regexp": "#[0-9A-F]{6}" },
-      "image": { "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}" },
+      "image": { "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}" }
   }
 }
